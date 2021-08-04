@@ -33,7 +33,11 @@ function PostForm() {
   });
 
   const onSubmit = (data) => {
-    console.log(data);
+    if (postId) {
+      console.log('Update');
+    } else {
+      console.log('Create');
+    }
   };
 
   return (
