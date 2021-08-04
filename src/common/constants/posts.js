@@ -1,0 +1,98 @@
+export const postList = [
+  {
+    userId: 1,
+    id: 1,
+    title: 'sunt aut facere repellat provident occaecati excepturi optio reprehenderit',
+    body: 'quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto',
+  },
+  {
+    userId: 1,
+    id: 2,
+    title: 'qui est esse',
+    body: 'est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla',
+  },
+  {
+    userId: 3,
+    id: 27,
+    title: 'quasi id et eos tenetur aut quo autem',
+    body: 'eum sed dolores ipsam sint possimus debitis occaecati\ndebitis qui qui et\nut placeat enim earum aut odit facilis\nconsequatur suscipit necessitatibus rerum sed inventore temporibus consequatur',
+  },
+  {
+    userId: 3,
+    id: 28,
+    title: 'delectus ullam et corporis nulla voluptas sequi',
+    body: 'non et quaerat ex quae ad maiores\nmaiores recusandae totam aut blanditiis mollitia quas illo\nut voluptatibus voluptatem\nsimilique nostrum eum',
+  },
+  {
+    userId: 3,
+    id: 29,
+    title: 'iusto eius quod necessitatibus culpa ea',
+    body: 'odit magnam ut saepe sed non qui\ntempora atque nihil\naccusamus illum doloribus illo dolor\neligendi repudiandae odit magni similique sed cum maiores',
+  },
+  {
+    userId: 3,
+    id: 30,
+    title: 'a quo magni similique perferendis',
+    body: 'alias dolor cumque\nimpedit blanditiis non eveniet odio maxime\nblanditiis amet eius quis tempora quia autem rem\na provident perspiciatis quia',
+  },
+  {
+    userId: 4,
+    id: 31,
+    title: 'ullam ut quidem id aut vel consequuntur',
+    body: 'debitis eius sed quibusdam non quis consectetur vitae\nimpedit ut qui consequatur sed aut in\nquidem sit nostrum et maiores adipisci atque\nquaerat voluptatem adipisci repudiandae',
+  },
+  {
+    userId: 4,
+    id: 32,
+    title: 'doloremque illum aliquid sunt',
+    body: 'deserunt eos nobis asperiores et hic\nest debitis repellat molestiae optio\nnihil ratione ut eos beatae quibusdam distinctio maiores\nearum voluptates et aut adipisci ea maiores voluptas maxime',
+  },
+  {
+    userId: 4,
+    id: 33,
+    title: 'qui explicabo molestiae dolorem',
+    body: 'rerum ut et numquam laborum odit est sit\nid qui sint in\nquasi tenetur tempore aperiam et quaerat qui in\nrerum officiis sequi cumque quod',
+  },
+  {
+    userId: 10,
+    id: 94,
+    title: 'qui qui voluptates illo iste minima',
+    body: 'aspernatur expedita soluta quo ab ut similique\nexpedita dolores amet\nsed temporibus distinctio magnam saepe deleniti\nomnis facilis nam ipsum natus sint similique omnis',
+  },
+  {
+    userId: 10,
+    id: 95,
+    title: 'id minus libero illum nam ad officiis',
+    body: 'earum voluptatem facere provident blanditiis velit laboriosam\npariatur accusamus odio saepe\ncumque dolor qui a dicta ab doloribus consequatur omnis\ncorporis cupiditate eaque assumenda ad nesciunt',
+  },
+  {
+    userId: 10,
+    id: 96,
+    title: 'quaerat velit veniam amet cupiditate aut numquam ut sequi',
+    body: 'in non odio excepturi sint eum\nlabore voluptates vitae quia qui et\ninventore itaque rerum\nveniam non exercitationem delectus aut',
+  },
+  {
+    userId: 10,
+    id: 97,
+    title: 'quas fugiat ut perspiciatis vero provident',
+    body: 'eum non blanditiis soluta porro quibusdam voluptas\nvel voluptatem qui placeat dolores qui velit aut\nvel inventore aut cumque culpa explicabo aliquid at\nperspiciatis est et voluptatem dignissimos dolor itaque sit nam',
+  },
+  {
+    userId: 10,
+    id: 98,
+    title: 'laboriosam dolor voluptates',
+    body: 'doloremque ex facilis sit sint culpa\nsoluta assumenda eligendi non ut eius\nsequi ducimus vel quasi\nveritatis est dolores',
+  },
+  {
+    userId: 10,
+    id: 99,
+    title: 'temporibus sit alias delectus eligendi possimus magni',
+    body: 'quo deleniti praesentium dicta non quod\naut est molestias\nmolestias et officia quis nihil\nitaque dolorem quia',
+  },
+  {
+    userId: 10,
+    id: 100,
+    title: 'at nam consequatur ea labore ea harum',
+    body: 'cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut',
+  },
+];
