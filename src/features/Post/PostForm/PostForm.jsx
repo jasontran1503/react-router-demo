@@ -34,9 +34,9 @@ function PostForm() {
 
   const onSubmit = (data) => {
     if (postId) {
-      console.log('Update');
+      console.log('Update', data);
     } else {
-      console.log('Create');
+      console.log('Create', data);
     }
   };
 
