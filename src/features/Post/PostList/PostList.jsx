@@ -7,10 +7,13 @@ function PostList() {
 
   return (
     <div style={{ marginTop: '50px' }}>
+      <Link to={`${match.url}/create`}>
+        <button className="btn btn-primary">New Post</button>
+      </Link>
       <ul>
         {postList.map((post) => {
           return (
-            <Link key={post.id} to={`${match.url}/${post.id}`}>
+            <Link key={post.id} to={`${match.url}/detail/${post.id}`}>
               <li>{post.title}</li>
             </Link>
           );

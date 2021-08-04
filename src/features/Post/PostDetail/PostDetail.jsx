@@ -1,5 +1,5 @@
 import React from 'react';
-import { useHistory, useParams } from 'react-router-dom';
+import { Link, useHistory, useParams } from 'react-router-dom';
 import { postList } from '../../../common/constants/posts';
 import useQueryParams from '../../../common/hooks/useQueryParams';
 
@@ -17,7 +17,12 @@ function PostDetail() {
   return (
     <div style={{ marginTop: '50px' }}>
       <div>{postItem.body}</div>
-      <button onClick={backToPostList}>Back</button>
+      <button className="btn btn-warning" onClick={backToPostList}>
+        Back
+      </button>
+      <Link to={`/post/update/${postId}`}>
+        <button className="btn btn-primary">Update this post</button>
+      </Link>
     </div>
   );
 }
